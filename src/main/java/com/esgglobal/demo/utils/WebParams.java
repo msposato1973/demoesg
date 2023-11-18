@@ -9,6 +9,7 @@ public class WebParams {
 	//Get the information ALL  customers
 	public static final String ALL = "/customers";
 	
+	public static final String URL_NF = "/customers/nonexistent";
 	//Get the information by  customerRef 
 	public static final String CUSROMER = "/customer/{customerRef}" ;
 
